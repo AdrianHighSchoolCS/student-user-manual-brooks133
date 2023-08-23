@@ -1,5 +1,5 @@
 ## About Me 
-<p>Name brooks:</p> 
+<p>Name: brooks</p> 
 <p>Preferred Name:</p>
 <p>Grade Level:</p>
 <p>Email:</p>
