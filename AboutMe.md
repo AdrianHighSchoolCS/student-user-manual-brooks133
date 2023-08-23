@@ -1,6 +1,6 @@
 ## About Me 
-<p>Name:brooks</p> 
-<p>Preferred Name:brooks</p>
+<p>Name:Brooks George Martin</p> 
+<p>Preferred Name:Brooks</p>
 <p>Grade Level:sophmore</p>
 <p>Email:26bmartin@adriansd.org</p>
 <p>Computer Science Courses Taken: Intro to Computer Science </p>
